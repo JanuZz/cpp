@@ -1,2 +1,2 @@
 # cpp
- Playing around with c++
+ Playing around with c++, dont expect anything crazy
